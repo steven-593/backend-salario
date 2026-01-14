@@ -1,0 +1,9 @@
+Flask
+gunicorn
+numpy
+pandas
+tensorflow-cpu
+flask-cors
+psycopg2-binary
+python-dotenv
+scikit-learn
